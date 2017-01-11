@@ -1,0 +1,4 @@
+C:\Users\Dmitry\Repositories\DrinkMachine\DrinkMachine\Scripts\built\require-config.js
+C:\Users\Dmitry\Repositories\DrinkMachine\DrinkMachine\Scripts\built\require-config.js.map
+C:\Users\Dmitry\Repositories\DrinkMachine\DrinkMachine\Scripts\built\services\shop.js
+C:\Users\Dmitry\Repositories\DrinkMachine\DrinkMachine\Scripts\built\services\shop.js.map
